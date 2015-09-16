@@ -1,3 +1,4 @@
 this is sample text
 commit test from clone, tutorial_another
 this line is added for making a conflict against tutorial
+this line is added for making a conflict against tutorial_another
