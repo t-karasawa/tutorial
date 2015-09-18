@@ -6,6 +6,5 @@ test:
     * CakePlugin::load('FastCSV'); 
 
 * test
-    * test 
-       test
-      test
+    * test
+       * test 
